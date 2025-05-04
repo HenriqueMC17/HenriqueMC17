@@ -32,7 +32,34 @@ Sou Henrique, um estudante dedicado e apaixonado por tecnologia. Acredito que a 
 
 ---
 
-## 📊 Estatísticas
+### 📈 Minhas Estatísticas
 
-| ![HenriqueMC17 GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueMC17-br&show_icons=true&theme=tokyonight8include_all_commits=true&locale=pt-br) | ![Linguagem mais Usadas](https://github-readme-status.vercel.app/api/top-langs/?username=HenriqueMC17-br&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueCardoso&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueCardoso&theme=radical" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCardoso&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🧠 Métricas de Desenvolvimento
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueCardoso&layout=compact&theme=radical&custom_title=Métricas%20de%20Desenvolvimento&layout=default&range=last_7_days&hide=projects,editors,os" width="100%" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueCardoso&theme=radical&no-bg=true&no-frame=true" alt="Troféus" />
+</p>
+
+---
+
+> **Nota:** *As linguagens mostradas são baseadas nos projetos públicos do GitHub.*
