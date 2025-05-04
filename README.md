@@ -33,5 +33,5 @@ Sou Henrique, um estudante dedicado e apaixonado por tecnologia. Acredito que a 
 ---
 
 ## 📊 Estatísticas
-| ![Eliseu GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Henrique Cardoso GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
