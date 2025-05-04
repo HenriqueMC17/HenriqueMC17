@@ -36,15 +36,3 @@ Sou Henrique, um estudante dedicado e apaixonado por tecnologia. Acredito que a 
 
 | ![Henrique Monteiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
-
-![Total de Estrelas](https://img.shields.io/github/stars/HenriqueMC17?style=social)
-![Total de Commits](https://img.shields.io/github/commit-activity/y/HenriqueMC17?style=flat-square)
-![Total de PRs](https://img.shields.io/github/issues-pr/HenriqueMC17?style=flat-square)
-![Total de Issues](https://img.shields.io/github/issues/HenriqueMC17?style=flat-square)
-![Contribuiu para 2025](https://img.shields.io/github/contributors/HenriqueMC17?style=flat-square)
-
----
-
-## Tecnologias
-
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
