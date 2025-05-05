@@ -17,7 +17,7 @@ Sou Henrique, um estudante dedicado e apaixonado por tecnologia. Acredito que a 
   <img alt="Java" title="Java" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Python" title="Python" width="30px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="C++" title="C++" width="30px" style="margin: 5px;" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png"/>
-  <img alt="C#" title="C#" width="30px" style="margin: 5px;" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg"/>
+  <img alt="C#" title="C#" width="30px" style="margin: 5px;" src="https://media.licdn.com/dms/image/v2/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=k4YoXJ8P4bwvim0gwUwtQ1hMfu-TdqVlvFa-iJY9LtY"/>
   <img alt="SQL" title="SQL" width="30px" style="margin: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Qm_fWxTTsEIebWjES7QsiRwTAoPHtWYrL8ADGxmCQQ1zLYJjOPR8G8keHInwSHC8ipw&usqp=CAU"/>
   <img alt="VBA" title="VBA" width="30px" style="margin: 5px;" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/1.0.1/1744222311829/Microsoft.VisualStudio.Services.Icons.Default"/>
   <img alt="App Script" title="App Script" width="30px" style="margin: 5px;" src="https://www.gstatic.com/images/branding/product/2x/hh_apps_script_512dp.png"/>
