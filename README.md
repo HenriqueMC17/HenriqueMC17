@@ -19,6 +19,7 @@ Sou Henrique, um estudante dedicado e apaixonado por tecnologia. Acredito que a 
   <img alt="C++" title="C++" width="30px" style="margin: 5px;" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png"/>
   <img alt="C#" title="C#" width="30px" style="margin: 5px;" src="https://media.licdn.com/dms/image/v2/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=k4YoXJ8P4bwvim0gwUwtQ1hMfu-TdqVlvFa-iJY9LtY"/>
   <img alt="SQL" title="SQL" width="30px" style="margin: 5px;" src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png"/>
+  <img alt="PHP" title="PHP" width="30px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"/>
   <img alt="VBA" title="VBA" width="30px" style="margin: 5px;" src="https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/1.0.1/1744222311829/Microsoft.VisualStudio.Services.Icons.Default"/>
   <img alt="App Script" title="App Script" width="30px" style="margin: 5px;" src="https://www.gstatic.com/images/branding/product/2x/hh_apps_script_512dp.png"/>
   <img alt="Eclipse" title="Eclipse" width="30px" style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" />
