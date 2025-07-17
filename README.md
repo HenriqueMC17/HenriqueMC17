@@ -106,7 +106,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/SeuUsuario/Projeto3">
+      <a href="https://github.com/HenriqueMC17/JogoDaVelha">
         <img src="https://img.shields.io/badge/-Jogo%20da%20Velha-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
         <br/>
         <strong>Jogo da Velha</strong>
