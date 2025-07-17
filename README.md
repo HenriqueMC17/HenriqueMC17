@@ -11,8 +11,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
   <!-- Badge de seguidores do GitHub em tempo real -->
   <img src="https://img.shields.io/github/followers/HenriqueMC17?label=Seguidores&style=social" />
-  <!-- Badge de repositórios públicos em tempo real -->
-  <img src="https://img.shields.io/github/repos/HenriqueMC17?label=Repositórios%20Públicos" />
 </p>
 
 ---
