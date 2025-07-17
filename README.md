@@ -1,6 +1,10 @@
 <h1 align="center">👾 Henrique Monteiro Cardoso</h1>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Henrique+Monteiro!;Estudante+de+TI+e+Desenvolvedor+em+Construção.;Tecnologia+é+como+magia+que+sabemos+explicar."/>
 </p>
 
@@ -8,8 +12,14 @@
   <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="200" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HenriqueMC17/count.svg" />
+  <b>🌎 Sorocaba/SP | 🎂 20 anos | 🎓 Estudante de ADS</b>
+</p>
+
+<p align="center">
+  <i>“Transformando curiosidade em código e ideias em soluções.”</i>
 </p>
 
 ---
@@ -17,13 +27,15 @@
 ## 🧑‍💻 Sobre mim
 
 Olá! Sou o Henrique, estudante de TI apaixonado por tecnologia, inovação e aprendizado contínuo.  
-Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
+Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 
-- 🎓 Estudante de [sua formação]  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💡 Acredito que tecnologia + empatia = transformação  
 - 🚀 Gosto de criar soluções que impactam positivamente a vida das pessoas  
 - 🧩 Curioso por IA, automação, jogos e eletrônica  
+- 📰 Membro ativo de comunidades de tecnologia  
 - 🕹️ Fun fact: Meu primeiro código foi um jogo simples em C++!
+- ✨ Hobby: Gosto de montar PCs e explorar gadgets novos
 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ — Arthur C. Clarke
 
@@ -39,7 +51,7 @@ Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios
     <td align="center"><b>Front-end</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" height="30"/>
     </td>
-    <td align="center"><b>Ferramentas</b><br>
+    <td align="center"><b>DevOps & Ferramentas</b><br>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,figma,ps,firebase" height="30"/>
     </td>
     <td align="center"><b>Outros</b><br>
@@ -50,13 +62,14 @@ Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=10&custom_title=Linguagens+Mais+Usadas" alt="Top Languages"/>
   <img src="https://streak-stats.demolab.com?user=HenriqueMC17&theme=tokyonight&hide_border=false" height="180em" alt="Streak Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=16&theme=tokyonight&area=true&hide_border=false" height="180em" alt="Activity Graph"/>
+  <img alt="snake eating my contributions" src="https://github.com/HenriqueMC17/HenriqueMC17/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -67,21 +80,25 @@ Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios
   <tr>
     <td align="center">
       <a href="https://github.com/SeuUsuario/Projeto1">
-        <img src="https://img.shields.io/badge/-Projeto%201-111?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Safe%20Finance-111?style=for-the-badge&logo=github&logoColor=white" />
         <br/>
-        <strong>Nome do Projeto 1</strong>
+        <strong>Safe Finance</strong>
       </a>
       <br/>
-      <sub>Breve descrição do projeto.</sub>
+      <sub>Safe Finance é um aplicativo desenvolvido com o objetivo principal de auxiliar na gestão financeira, de maneira intuitiva e prática.</sub>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel" height="20"/>
     </td>
     <td align="center">
       <a href="https://github.com/SeuUsuario/Projeto2">
-        <img src="https://img.shields.io/badge/-Projeto%202-007396?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Portfólio%20Pessoal-007396?style=for-the-badge&logo=github&logoColor=white" />
         <br/>
-        <strong>Nome do Projeto 2</strong>
+        <strong>Portfólio de projetos pessoais</strong>
       </a>
       <br/>
-      <sub>Breve descrição do projeto.</sub>
+      <sub>Um portfólio profissional moderno e interativo desenvolvido com Next.js 15, React 19, TypeScript e Tailwind CSS, apresentando minhas habilidades, experiências e projetos como Desenvolvedor Full Stack.</sub>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="20"/>
     </td>
   </tr>
 </table>
@@ -90,12 +107,12 @@ Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios
 
 ## 🌱 Atualmente estudando
 
-- Java com Orientação a Objetos  
-- TypeScript + Angular  
-- SQL para banco de dados relacionais  
-- Lógica de programação com C++ e Python  
-- Google Apps Script & VBA para automações  
-- Fundamentos de Eletrônica com Arduino
+- <img src="https://skillicons.dev/icons?i=java" height="20"/> Java com Orientação a Objetos  
+- <img src="https://skillicons.dev/icons?i=ts,angular" height="20"/> TypeScript + Angular  
+- <img src="https://skillicons.dev/icons?i=mysql" height="20"/> SQL para banco de dados relacionais  
+- <img src="https://skillicons.dev/icons?i=cpp,py" height="20"/> Lógica de programação com C++ e Python  
+- <img src="https://skillicons.dev/icons?i=googlecloud" height="20"/> Google Apps Script & VBA para automações  
+- <img src="https://skillicons.dev/icons?i=arduino" height="20"/> Fundamentos de Eletrônica com Arduino
 
 ---
 
@@ -108,13 +125,25 @@ Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios
   <a href="https://wa.me/5515988027261" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:henriquemon17@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/seuusuario" target="_blank">
+  <a href="https://discordapp.com/users/.crazywen" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://github.com/HenriqueMC17?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/-Follow%20Me-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## ✨ Curiosidades
+
+- 👨‍🏫 Gosto de ensinar programação para iniciantes  
+- 🏆 Já participei de hackathons e maratonas de programação  
+- 🎮 Apaixonado por jogos e desenvolvimento de games  
+- 🤝 Aberto a colaborações e projetos open-source
 
 ---
 
