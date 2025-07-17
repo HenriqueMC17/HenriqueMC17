@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
-  <img src="https://profile-counter.glitch.me/HenriqueMC17/count.svg" />
 </p>
 
 ---
@@ -72,7 +71,6 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=10&custom_title=Linguagens+Mais+Usadas" alt="Top Languages"/>
   <img src="https://streak-stats.demolab.com?user=HenriqueMC17&theme=tokyonight&hide_border=false" height="180em" alt="Streak Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=16&theme=tokyonight&area=true&hide_border=false" height="180em" alt="Activity Graph"/>
-  <img alt="snake eating my contributions" src="https://github.com/HenriqueMC17/HenriqueMC17/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
