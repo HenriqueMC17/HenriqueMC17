@@ -93,7 +93,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel" height="20"/>
     </td>
     <td align="center">
-      <a href="https://v0-saas-landing-page-bi83mscdt.vercel.app/">
+      <a href="https://v0-portfolio-website-zeta-plum.vercel.app/">
         <img src="https://img.shields.io/badge/-Portfólio%20Pessoal-007396?style=for-the-badge&logo=github&logoColor=white" />
         <br/>
         <strong>Portfólio de projetos pessoais</strong>
