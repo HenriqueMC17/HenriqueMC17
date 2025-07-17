@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou o Henrique, estudante de TI apaixonado por tecnologia, inovação e aprendizado contínuo. 
+Olá! Sou o Henrique, estudante de TI apaixonado por tecnologia, inovação e aprendizado contínuo.  
 Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
@@ -176,4 +176,107 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 
 ---
 
-<p align="center"><i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i></p>
+<p align="center"><i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i></p> 
+
+---
+
+## 🎓 Licenças e Certificados
+
+<p align="center">
+  <b>Confira algumas das minhas certificações e reconhecimentos profissionais:</b>
+</p>
+
+<ul>
+  <li><b>Excel Profissionalizante e Especialista em Planilhas Eletrônicas</b><br>
+    <i>Geração Futuro Aprendizagem</i> — out/2024<br>
+    <i>Competências:</i> Criação de planilhas, Operações computacionais, Microsoft Office, Dashboards, Gráficos, Análise de dados
+    <br>Arquivo: <code>Certificado de Excel Profissionalizante e Especialista em Planilhas Eletrônicas.pdf</code>
+  </li>
+  <li><b>Projeto de Case: Estudo de Casos na Matéria Polivalente</b><br>
+    <i>Geração Futuro Aprendizagem</i> — set/2024<br>
+    <i>Competências:</i> Análise de casos, resolução de problemas<br>
+    Arquivo: <code>Certificado Horas Geração Futuro - Polivalente (Estoudo de CASE).pdf</code>
+  </li>
+  <li><b>Privacy and Data Protection Essentials (Hebrew)</b><br>
+    <i>ASSA ABLOY Group</i> — ago/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certificado de (Hebrew) Privacy and Data Protection Essentials.pdf</code>
+  </li>
+  <li><b>Code of Conduct (A-H)</b><br>
+    <i>ASSA ABLOY Group</i> — ago/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certificado de Code of Conduct (A-H).pdf</code>
+  </li>
+  <li><b>RSD - Targeted Attacks</b><br>
+    <i>ASSA ABLOY Group</i> — ago/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certificado de RSD - Targeted Attacks.pdf</code>
+  </li>
+  <li><b>Security Awareness Program - Staying Safe Online</b><br>
+    <i>ASSA ABLOY Group</i> — jul/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certidicado de Security Awareness Program - Staying Safe Online.pdf</code>
+  </li>
+  <li><b>RSD - Social Engineering</b><br>
+    <i>ASSA ABLOY Group</i> — jul/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certificado de RSD - Social Engineering.pdf</code>
+  </li>
+  <li><b>Security Awareness - Social Engineering Attacks</b><br>
+    <i>ASSA ABLOY Group</i> — jul/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certificado de Conscientização sobre Segurança - Ataques de Engenharia Social.pdf</code>
+  </li>
+  <li><b>Security Awareness Program - Key Defense</b><br>
+    <i>ASSA ABLOY Group</i> — jul/2024<br>
+    <i>Competências:</i> Habilidades analíticas<br>
+    Arquivo: <code>Certificado de Security Awareness Program - Key Defense.pdf</code>
+  </li>
+  <li><b>Analista em Suporte Técnico</b><br>
+    <i>MicroPRO</i> — fev/2024<br>
+    <i>Competências:</i> Capacidade de organização, Operações computacionais, Treinamento, Pensamento crítico, Resolução de problemas, TI, Programação, Gestão de infraestrutura, Suporte técnico, Trabalho em equipe, Administração, Gestão estratégica de TI, Aprovisionamento de TI, Análise de falhas, Equipamentos de escritório, Habilidades analíticas, Treinamento e desenvolvimento de funcionários<br>
+    Arquivo: <code>Certificado AST.pdf</code>
+  </li>
+  <li><b>Excel</b><br>
+    <i>CCBEU Sorocaba - Centro Cultural Brasil - Estados Unidos</i> — out/2023<br>
+    <i>Competências:</i> Microsoft Excel, Criação de planilhas, Elaboração de gráficos, Microsoft Office, Dashboards, Fórmulas<br>
+    Arquivo: <code>Certificado HENRIQUE.pptx</code>
+  </li>
+  <li><b>Excel Básico</b><br>
+    <i>SENAI</i> — fev/2023<br>
+    <i>Competências:</i> Microsoft Excel, Microsoft Office, Edição e formatação de dados, Funções e fórmulas básicas, Gráficos<br>
+    Arquivo: <code>Certificado de Excel Basico.jpg</code>
+  </li>
+  <li><b>Gestão de Pequenos Negócios</b><br>
+    <i>Start</i> — dez/2022<br>
+    <i>Competências:</i> Organização, Pensamento crítico, Gestão de pequenas empresas, Equipes, Empreendedorismo, Administração, Comunicação empresarial, Gestão operacional, Equipamentos de escritório, Habilidades analíticas, Gestão de projetos, Ferramentas de gestão (SWOT, SMART, CANVAS, etc.)<br>
+    Arquivo: <code>Certificado de Gestão de Pequenos Negócios.jpg</code>
+  </li>
+  <li><b>Maquiagem Artística</b><br>
+    <i>Cedaspy - Unidade SLS</i> — ago/2020<br>
+    Arquivo: <code>Certificado de Maquiagem Artística.jpg</code>
+  </li>
+  <li><b>Oficina de Fotografia</b><br>
+    <i>Cedaspy - Unidade SLS</i> — ago/2020<br>
+    Arquivo: <code>Certificado de Oficina de Fotografia.jpg</code>
+  </li>
+  <li><b>Cartão Interativo</b><br>
+    <i>Cedaspy - Unidade SLS</i> — jun/2020<br>
+    Arquivo: <code>Certificado de Cartão Interativo.jpg</code>
+  </li>
+  <li><b>Treinamento Profissional em Informática</b><br>
+    <i>Cedaspy - Unidade SLS</i> — mai/2020<br>
+    <i>Competências:</i> Organização, Operações computacionais, Pensamento crítico, Microsoft Office, Empreendedorismo, Trabalho em equipe, Administração, Habilidades analíticas, Web, Documentos, Marketing Digital, Administração Financeira<br>
+    Arquivo: <code>Certificado de Treinamento Profissional em Informática.jpg</code>
+  </li>
+  <li><b>TCEPE - Treinamento de Capacitação Profissional Estudantil</b><br>
+    <i>Cedaspy - Unidade SLS</i> — ago/2019<br>
+    <i>Competências:</i> Organização, Pensamento crítico, Propostas, Microsoft Office, Empreendedorismo, Trabalho em equipe, Administração, Gestão operacional, Equipamentos de escritório, Currículo, Entrevista, Legislação de aprendizagem, Ferramentas de internet<br>
+    Arquivo: <code>Certificado de TCEPE - Treinamento de Capacitação Profissional Estudantil.jpg</code>
+  </li>
+  <li><b>MAI - Módulo de Acesso Inicial</b><br>
+    <i>Cedaspy - Unidade SLS</i> — jul/2019<br>
+    <i>Competências:</i> Microsoft Office, Empreendedorismo, Trabalho em equipe<br>
+    Arquivo: <code>Certificado de MAI - Módulo de Acesso Inicial.jpg</code>
+  </li>
+</ul>
