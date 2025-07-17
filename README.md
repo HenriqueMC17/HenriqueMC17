@@ -24,7 +24,7 @@ Olá! Sou o Henrique, um entusiasta da tecnologia com paixão por aprendizado co
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,cs,c,php,vba,mysql,sqlite,arduino,git,github,discord,vscode,eclipse,firebase,figma,gitlab,github,ps,postgress,react,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,cs,c,php,mysql,arduino,git,github,discord,vscode,eclipse,firebase,figma,gitlab,github,ps,postgress,react,&perline=8" />
   </a>
 </p>
 
