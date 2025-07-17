@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Henrique+Monteiro!;Estudante+de+TI+e+Desenvolvedor+em+Construção.;Tecnologia+é+como+magia+que+sabemos+explicar."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+eu+sou+Henrique+Monteiro!;Estudante+de+TI+e+Desenvolvedor+em+Construção.;Tecnologia+é+como+magia+que+sabemos+explicar."/>
 </p>
 
 <p align="center">
@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
+  <img src="https://profile-counter.glitch.me/HenriqueMC17/count.svg" />
 </p>
 
 ---
@@ -182,7 +183,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 ## 🎓 Licenças e Certificados
 
 <p align="center">
-  <b>Confira algumas das minhas certificações e reconhecimentos profissionais:</b>
+  <b>Certificados relevantes na área de Tecnologia:</b>
 </p>
 
 <ul>
@@ -245,23 +246,6 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
     <i>SENAI</i> — fev/2023<br>
     <i>Competências:</i> Microsoft Excel, Microsoft Office, Edição e formatação de dados, Funções e fórmulas básicas, Gráficos<br>
     Arquivo: <code>Certificado de Excel Basico.jpg</code>
-  </li>
-  <li><b>Gestão de Pequenos Negócios</b><br>
-    <i>Start</i> — dez/2022<br>
-    <i>Competências:</i> Organização, Pensamento crítico, Gestão de pequenas empresas, Equipes, Empreendedorismo, Administração, Comunicação empresarial, Gestão operacional, Equipamentos de escritório, Habilidades analíticas, Gestão de projetos, Ferramentas de gestão (SWOT, SMART, CANVAS, etc.)<br>
-    Arquivo: <code>Certificado de Gestão de Pequenos Negócios.jpg</code>
-  </li>
-  <li><b>Maquiagem Artística</b><br>
-    <i>Cedaspy - Unidade SLS</i> — ago/2020<br>
-    Arquivo: <code>Certificado de Maquiagem Artística.jpg</code>
-  </li>
-  <li><b>Oficina de Fotografia</b><br>
-    <i>Cedaspy - Unidade SLS</i> — ago/2020<br>
-    Arquivo: <code>Certificado de Oficina de Fotografia.jpg</code>
-  </li>
-  <li><b>Cartão Interativo</b><br>
-    <i>Cedaspy - Unidade SLS</i> — jun/2020<br>
-    Arquivo: <code>Certificado de Cartão Interativo.jpg</code>
   </li>
   <li><b>Treinamento Profissional em Informática</b><br>
     <i>Cedaspy - Unidade SLS</i> — mai/2020<br>
