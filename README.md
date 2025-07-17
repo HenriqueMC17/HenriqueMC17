@@ -176,9 +176,11 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 
 ---
 
+### 🎧 O que estou ouvindo no Spotify
+
 <div align="center">
-  <a href="https://open.spotify.com/user/22ihqgz2kjnztzifbvb2g5dgq">
-    <img src="https://spotify-recently-played-readme.vercel.app"  />
+  <a href="https://open.spotify.com/user/31k3hwqqt55ohjaiif3tnhps6wrq?si=2711116ba4034159" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq&count=3&unique=false" alt="Spotify recently played" />
   </a>
 </div>
 
