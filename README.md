@@ -82,7 +82,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/SeuUsuario/Projeto1">
+      <a href="https://v0-saas-landing-page-bi83mscdt.vercel.app/">
         <img src="https://img.shields.io/badge/-Safe%20Finance-111?style=for-the-badge&logo=github&logoColor=white" />
         <br/>
         <strong>Safe Finance</strong>
@@ -101,7 +101,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <br/>
       <sub>Um portfólio profissional moderno e interativo desenvolvido com Next.js 15, React 19, TypeScript e Tailwind CSS, apresentando minhas habilidades, experiências e projetos como Desenvolvedor Full Stack.</sub>
       <br/>
-      <img src="https://v0-portfolio-website-zeta-plum.vercel.app/" height="20"/>
+      <img src="https://github.com/SeuUsuario/Projeto3" height="20"/>
     </td>
   </tr>
   <tr>
