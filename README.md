@@ -1,7 +1,5 @@
 <h1 align="center">👾 Henrique Monteiro Cardoso</h1>
 
-<p align="center"><i>Estudante de Tecnologia | Desenvolvedor em formação | Apaixonado por Inovação</i></p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Henrique+Monteiro!;Estudante+de+TI+e+Desenvolvedor+em+Construção.;Tecnologia+é+como+magia+que+sabemos+explicar."/>
 </p>
@@ -10,11 +8,22 @@
   <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="200" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/HenriqueMC17/count.svg" />
+</p>
+
 ---
 
-## 🧠 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Olá! Sou o Henrique, um entusiasta da tecnologia com paixão por aprendizado contínuo e soluções criativas. Acredito que a tecnologia, aliada à empatia, tem o poder de transformar realidades. Neste espaço, compartilho projetos, ideias e experiências do meu processo de desenvolvimento como profissional de TI.
+Olá! Sou o Henrique, estudante de TI apaixonado por tecnologia, inovação e aprendizado contínuo.  
+Atualmente moro em [sua cidade/estado] e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
+
+- 🎓 Estudante de [sua formação]  
+- 💡 Acredito que tecnologia + empatia = transformação  
+- 🚀 Gosto de criar soluções que impactam positivamente a vida das pessoas  
+- 🧩 Curioso por IA, automação, jogos e eletrônica  
+- 🕹️ Fun fact: Meu primeiro código foi um jogo simples em C++!
 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ — Arthur C. Clarke
 
@@ -22,11 +31,22 @@ Olá! Sou o Henrique, um entusiasta da tecnologia com paixão por aprendizado co
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,cs,c,php,mysql,arduino,git,github,discord,vscode,eclipse,firebase,figma,gitlab,github,ps,postgress,react,&perline=8" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Back-end</b><br>
+      <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,php,mysql,arduino" height="30"/>
+    </td>
+    <td align="center"><b>Front-end</b><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" height="30"/>
+    </td>
+    <td align="center"><b>Ferramentas</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,figma,ps,firebase" height="30"/>
+    </td>
+    <td align="center"><b>Outros</b><br>
+      <img src="https://skillicons.dev/icons?i=discord,windows,postgres" height="30"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,7 +55,36 @@ Olá! Sou o Henrique, um entusiasta da tecnologia com paixão por aprendizado co
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=10&custom_title=Linguagens+Mais+Usadas" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=HenriqueMC17&theme=tokyonight&hide_border=false" height="180em" alt="Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=16&theme=tokyonight&area=true&hide_border=false" height="180em" alt="Activity Graph"/>
 </p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SeuUsuario/Projeto1">
+        <img src="https://img.shields.io/badge/-Projeto%201-111?style=for-the-badge&logo=github&logoColor=white" />
+        <br/>
+        <strong>Nome do Projeto 1</strong>
+      </a>
+      <br/>
+      <sub>Breve descrição do projeto.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeuUsuario/Projeto2">
+        <img src="https://img.shields.io/badge/-Projeto%202-007396?style=for-the-badge&logo=github&logoColor=white" />
+        <br/>
+        <strong>Nome do Projeto 2</strong>
+      </a>
+      <br/>
+      <sub>Breve descrição do projeto.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,27 +108,12 @@ Olá! Sou o Henrique, um entusiasta da tecnologia com paixão por aprendizado co
   <a href="https://wa.me/5515988027261" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🎯 Objetivos e visão
-
-- 💡 Desenvolver projetos que resolvam problemas reais  
-- 🌐 Contribuir em comunidades open-source  
-- 📚 Compartilhar conhecimento e aprender sempre  
-- 🧠 Explorar áreas como IA, automação e desenvolvimento de jogos
-
----
-
-## 📦 Repositórios em destaque *(em breve)*
-
-Projetos em andamento serão publicados em breve aqui no meu perfil. Fique à vontade para me seguir e acompanhar essa jornada!
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/HenriqueMC17/count.svg" />
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
