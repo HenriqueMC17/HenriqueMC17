@@ -101,7 +101,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <br/>
       <sub>Um portfólio profissional moderno e interativo desenvolvido com Next.js 15, React 19, TypeScript e Tailwind CSS, apresentando minhas habilidades, experiências e projetos como Desenvolvedor Full Stack.</sub>
       <br/>
-      <img src="https://github.com/SeuUsuario/Projeto3" height="20"/>
+      <img src="https://github.com/HenriqueMC17/JogoDaVelha" height="20"/>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <img src="https://skillicons.dev/icons?i=js,html,css" height="20"/>
     </td>
     <td align="center">
-      <a href="https://github.com/SeuUsuario/Projeto4">
+      <a href="https://github.com/HenriqueMC17/OrganizadorDeArquivos">
         <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
         <br/>
         <strong>Organizador de Arquivos</strong>
