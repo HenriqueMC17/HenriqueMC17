@@ -52,10 +52,10 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,php,nodejs,mysql,postgres,arduino" height="30"/>
     </td>
     <td align="center"><b>Front-end</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,materialui" height="30"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui" height="30"/>
     </td>
     <td align="center"><b>DevOps & Ferramentas</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,gitlab,vscode,eclipse,figma,ps,firebase,windows" height="30"/>
+      <img src="https://skillicons.dev/icons?i=docker,gitlab,vscode,eclipse,figma,ps,firebase,windows" height="30"/>
     </td>
     <td align="center"><b>Outros</b><br>
       <img src="https://skillicons.dev/icons?i=discord,github,arduino" height="30"/>
