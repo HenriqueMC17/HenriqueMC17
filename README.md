@@ -7,7 +7,12 @@
 </p>
 
 <p align="center">
+  <!-- Badge de visitantes em tempo real -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
+  <!-- Badge de seguidores do GitHub em tempo real -->
+  <img src="https://img.shields.io/github/followers/HenriqueMC17?label=Seguidores&style=social" />
+  <!-- Badge de repositórios públicos em tempo real -->
+  <img src="https://img.shields.io/github/repos/HenriqueMC17?label=Repositórios%20Públicos" />
 </p>
 
 ---
@@ -77,6 +82,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 
 ## 🚀 Projetos em Destaque
 
+<!-- Mantenha os links dos projetos sempre atualizados, se possível use badges de stars/forks em tempo real -->
 <table>
   <tr>
     <td align="center">
@@ -99,7 +105,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <br/>
       <sub>Um portfólio profissional moderno e interativo desenvolvido com Next.js 15, React 19, TypeScript e Tailwind CSS, apresentando minhas habilidades, experiências e projetos como Desenvolvedor Full Stack.</sub>
       <br/>
-      <img src="https://github.com/HenriqueMC17/JogoDaVelha" height="20"/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="20"/>
     </td>
   </tr>
   <tr>
@@ -168,7 +174,7 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/HenriqueMC17?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/-Follow%20Me-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/HenriqueMC17?label=Follow&style=for-the-badge" />
   </a>
 </p>
 
@@ -183,4 +189,5 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 </div>
 
 ---
-<p align="center"><i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i></p> 
+
+<p align="center"><i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i></p>
