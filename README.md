@@ -1,9 +1,3 @@
-<h1 align="center">👾 Henrique Monteiro Cardoso</h1>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Henrique+Monteiro!;Estudante+de+TI+e+Desenvolvedor+em+Construção.;Tecnologia+é+como+magia+que+sabemos+explicar."/>
 </p>
@@ -12,7 +6,14 @@
   <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="200" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17" />
+  <img src="https://profile-counter.glitch.me/HenriqueMC17/count.svg" />
+</p>
+
 ---
+
+<h1 align="center">👾 Henrique Monteiro Cardoso</h1>
 
 <p align="center">
   <b>🌎 Sorocaba/SP | 🎂 20 anos | 🎓 Estudante de ADS</b>
@@ -26,16 +27,18 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou o Henrique, estudante de TI apaixonado por tecnologia, inovação e aprendizado contínuo.  
+Olá! Sou o Henrique, estudante de TI apaixonado por tecnologia, inovação e aprendizado contínuo. 
 Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💡 Acredito que tecnologia + empatia = transformação  
-- 🚀 Gosto de criar soluções que impactam positivamente a vida das pessoas  
-- 🧩 Curioso por IA, automação, jogos e eletrônica  
-- 📰 Membro ativo de comunidades de tecnologia  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💡 Acredito que tecnologia + empatia = transformação
+- 🚀 Gosto de criar soluções que impactam positivamente a vida das pessoas
+- 🧩 Curioso por IA, automação, jogos e eletrônica
+- 📰 Membro ativo de comunidades de tecnologia
 - 🕹️ Fun fact: Meu primeiro código foi um jogo simples em C++!
 - ✨ Hobby: Gosto de montar PCs e explorar gadgets novos
+- 🏆 Já participei de hackathons e maratonas de programação
+- 👨‍🏫 Gosto de ensinar programação para iniciantes
 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ — Arthur C. Clarke
 
@@ -46,16 +49,16 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 <table align="center">
   <tr>
     <td align="center"><b>Back-end</b><br>
-      <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,php,mysql,arduino" height="30"/>
+      <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,php,nodejs,mysql,postgres,arduino" height="30"/>
     </td>
     <td align="center"><b>Front-end</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" height="30"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,materialui" height="30"/>
     </td>
     <td align="center"><b>DevOps & Ferramentas</b><br>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,figma,ps,firebase" height="30"/>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,vscode,eclipse,figma,ps,firebase,linux,windows" height="30"/>
     </td>
     <td align="center"><b>Outros</b><br>
-      <img src="https://skillicons.dev/icons?i=discord,windows,postgres" height="30"/>
+      <img src="https://skillicons.dev/icons?i=discord,googlecloud,azure,arduino" height="30"/>
     </td>
   </tr>
 </table>
@@ -101,6 +104,30 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
       <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="20"/>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SeuUsuario/Projeto3">
+        <img src="https://img.shields.io/badge/-Jogo%20da%20Velha-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
+        <br/>
+        <strong>Jogo da Velha</strong>
+      </a>
+      <br/>
+      <sub>Clássico jogo da velha feito em JavaScript, HTML e CSS, com interface responsiva e placar.</sub>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js,html,css" height="20"/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeuUsuario/Projeto4">
+        <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
+        <br/>
+        <strong>Organizador de Arquivos</strong>
+      </a>
+      <br/>
+      <sub>Script em Python para organizar arquivos automaticamente em pastas por extensão.</sub>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=py" height="20"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -113,6 +140,17 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 - <img src="https://skillicons.dev/icons?i=cpp,py" height="20"/> Lógica de programação com C++ e Python  
 - <img src="https://skillicons.dev/icons?i=googlecloud" height="20"/> Google Apps Script & VBA para automações  
 - <img src="https://skillicons.dev/icons?i=arduino" height="20"/> Fundamentos de Eletrônica com Arduino
+
+---
+
+## ✨ Curiosidades
+
+- 👨‍🏫 Gosto de ensinar programação para iniciantes  
+- 🏆 Já participei de hackathons e maratonas de programação  
+- 🎮 Apaixonado por jogos e desenvolvimento de games  
+- 🤝 Aberto a colaborações e projetos open-source  
+- 📰 Fundador de comunidade tech e escritor de artigos científicos  
+- 💬 Adoro conversar sobre tecnologia, carreira e inovação
 
 ---
 
@@ -135,15 +173,6 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
     <img src="https://img.shields.io/badge/-Follow%20Me-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## ✨ Curiosidades
-
-- 👨‍🏫 Gosto de ensinar programação para iniciantes  
-- 🏆 Já participei de hackathons e maratonas de programação  
-- 🎮 Apaixonado por jogos e desenvolvimento de games  
-- 🤝 Aberto a colaborações e projetos open-source
 
 ---
 
