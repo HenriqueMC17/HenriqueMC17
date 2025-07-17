@@ -177,8 +177,8 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 ---
 
 <div align="center">
-  <a href="[https://open.spotify.com/user/22ihqgz2kjnztzifbvb2g5dgq](https://open.spotify.com/user/31k3hwqqt55ohjaiif3tnhps6wrq?si=caf03072a3f34249)">
-    <img src="[https://spotify-recently-played-readme.vercel.app](https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq)"  />
+  <a href="https://open.spotify.com/user/22ihqgz2kjnztzifbvb2g5dgq">
+    <img src="https://spotify-recently-played-readme.vercel.app"  />
   </a>
 </div>
 
