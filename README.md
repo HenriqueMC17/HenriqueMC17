@@ -185,13 +185,6 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueMC17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HenriqueMC17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/pacman-contribution-graph.svg">
