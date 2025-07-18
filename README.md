@@ -185,12 +185,4 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <p align="center"><i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i></p>
