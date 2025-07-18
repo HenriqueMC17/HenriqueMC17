@@ -39,7 +39,6 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 - 📰 Membro ativo de comunidades de tecnologia
 - 🕹️ Fun fact: Meu primeiro código foi um jogo simples em C++!
 - ✨ Hobby: Gosto de montar PCs e explorar gadgets novos
-- 🏆 Já participei de hackathons e maratonas de programação
 - 👨‍🏫 Gosto de ensinar programação para iniciantes
 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ — Arthur C. Clarke
@@ -148,10 +147,8 @@ Atualmente moro em Sorocaba/SP e estou sempre em busca de novos desafios e oport
 ## ✨ Curiosidades
 
 - 👨‍🏫 Gosto de ensinar programação para iniciantes  
-- 🏆 Já participei de hackathons e maratonas de programação  
 - 🎮 Apaixonado por jogos e desenvolvimento de games  
 - 🤝 Aberto a colaborações e projetos open-source  
-- 📰 Fundador de comunidade tech e escritor de artigos científicos  
 - 💬 Adoro conversar sobre tecnologia, carreira e inovação
 
 ---
