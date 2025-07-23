@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17&left_color=blue&right_color=green" alt="Visitantes" />
-  <img src="https://img.shields.io/github/followers/HenriqueMC17?label=Seguidores&style=social" alt="Seguidores GitHub" />
 </p>
 
 ---
@@ -154,8 +153,8 @@ Olá! Sou o Henrique, estudante de Análise e Desenvolvimento de Sistemas apaixo
   <a href="https://discordapp.com/users/.crazywen" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/HenriqueMC17?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/HenriqueMC17?label=Follow&style=for-the-badge" />
+  <a href="https://github.com/HenriqueMC17" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
