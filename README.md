@@ -23,7 +23,7 @@
 
 Olá! Sou o Henrique, estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, inovação e aprendizado contínuo.
 
-- 🎓 Estudante de ADS — FATEC / ETEC  
+- 🎓 Estudante de ADS — FACENS
 - 🚀 Entusiasta de projetos com impacto real  
 - 💡 Acredito que tecnologia + empatia = transformação  
 - 🧩 Curioso por IA, automação, jogos e eletrônica  
