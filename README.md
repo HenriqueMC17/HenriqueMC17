@@ -163,7 +163,7 @@ Olá! Sou o Henrique, estudante de Análise e Desenvolvimento de Sistemas apaixo
 ### 🎧 Escutando no Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31k3hwqqt55ohjaiif3tnhps6wrq?si=2711116ba4034159" target="_blank">
+  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=7f7c1ce6ca504c76" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq&count=3&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
