@@ -1,173 +1,132 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+eu+sou+Henrique+Monteiro!;Estudante+de+TI+e+Desenvolvedor+em+Construção.;Tecnologia+é+como+magia+que+sabemos+explicar."/>
-</p>
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF7E0&height=250&section=header&text=Henrique%20Monteiro&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+TI+e+Desenvolvedor+em+Construção;Transformando+curiosidade+em+código+e+ideias+em+soluções;Tecnologia+é+como+magia+que+sabemos+explicar"/>
+</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="200" alt="GIF programando" />
-</p>
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/henrique-monteiro-cardoso-ba3716229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:henriquemon17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5515988027261" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://discordapp.com/users/.crazywen" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17&left_color=2b2b2b&right_color=0FF7E0" alt="Visitantes" />
+</div>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HenriqueMC17&left_color=blue&right_color=green" alt="Visitantes" />
-</p>
+<br>
 
----
-
-<h1 align="center">👾 Henrique Monteiro Cardoso</h1>
-
-<p align="center"><b>🌎 Sorocaba/SP • 🎂 18 anos • 🎓 Estudante de ADS</b></p>
-<p align="center"><i>"Transformando curiosidade em código e ideias em soluções."</i></p>
-
----
-
-## 🧑‍💻 Sobre Mim
-
-Olá! Sou o Henrique, estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, inovação e aprendizado contínuo.
-
-- 🎓 Estudante de ADS — FACENS
-- 🚀 Entusiasta de projetos com impacto real  
-- 💡 Acredito que tecnologia + empatia = transformação  
-- 🧩 Curioso por IA, automação, jogos e eletrônica  
-- 📚 Sempre aprendendo algo novo  
-- 🧠 Ensino programação para iniciantes e compartilho conhecimento  
-- 🕹️ Meu primeiro projeto foi um jogo em C++  
-- 🖥️ Hobby: montar PCs e explorar gadgets novos  
-
-> _"Any sufficiently advanced technology is indistinguishable from magic."_ — Arthur C. Clarke
+<div align="center">
+  <i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i>
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Sobre Mim
+Olá! Sou o **Henrique Monteiro Cardoso**. Tenho 18 anos e sou de Sorocaba/SP. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FACENS, com foco em construir soluções reais, arquiteturas escaláveis e produtos que unam engenharia e experiência de usuário de forma impecável.
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Back-end</b><br>
-      <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,php,nodejs,mysql,postgres,arduino" height="30"/>
-    </td>
-    <td align="center"><b>Front-end</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui" height="30"/>
-    </td>
-    <td align="center"><b>DevOps & Ferramentas</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,gitlab,vscode,eclipse,figma,ps,firebase,windows" height="30"/>
-    </td>
-    <td align="center"><b>Outros</b><br>
-      <img src="https://skillicons.dev/icons?i=github,discord,arduino" height="30"/>
-    </td>
-  </tr>
-</table>
+Acredito que alinhar uma boa engenharia de software com empatia e entendimento do usuário é a verdadeira chave para fazer diferença no ecossistema de tecnologia.
+
+- 🎓 **Formação:** ADS — FACENS
+- 👨‍🏫 **Comunidade:** Amo compartilhar o que aprendo. Atuo dando aulas e ensinando programação para iniciantes.
+- 🎮 **Aprofundando-se:** Atualmente estudando bastante Java Orientado a Objetos, Angular, Python e desenvolvimento de jogos (C++ e Unity).
+- 🤝 **Aberto a:** Projetos Open-Source (onde posso ajudar a resolver aquele bug chato), Hackathons e colaborações em time.
 
 ---
 
-## 📈 GitHub Insights
+## 🛠️ Stack & Ecossistema
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=10&custom_title=Linguagens+Mais+Usadas&cache_seconds=1800" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueMC17&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="180em" alt="Streak Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=16&theme=tokyonight&area=true&hide_border=false&custom_title=Atividades+Recentes" height="180em" alt="Gráfico de Atividades"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>💻 Front-end</b></td>
+      <td align="center" width="25%"><b>⚙️ Back-end</b></td>
+      <td align="center" width="25%"><b>🗄️ Dados & Cloud</b></td>
+      <td align="center" width="25%"><b>🛠️ Ferramentas</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,tailwind,html,css" height="40"/><br></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java,py,cpp,nodejs,php" height="40"/><br></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp" height="40"/><br></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,arduino" height="40"/><br></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://v0-saas-landing-page-bi83mscdt.vercel.app/">
-        <img src="https://img.shields.io/badge/-Safe%20Finance-111?style=for-the-badge&logo=github&logoColor=white" />
-        <br/><strong>Safe Finance</strong>
-      </a>
+    <td align="center" width="50%">
+      <a href="https://v0-saas-landing-page-bi83mscdt.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Safe%20Finance-00F7E0?style=for-the-badge&logo=react&logoColor=black" />
+      </a><br/>
+      <b>Aplicativo de gestão financeira focado em UX premium e alta performance.</b><br/>
       <br/>
-      <sub>Aplicativo de gestão financeira simples e prático, com foco na experiência do usuário.</sub><br/>
-      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel" height="20"/>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vercel" height="25"/>
     </td>
-    <td align="center">
-      <a href="https://v0-portfolio-website-zeta-plum.vercel.app/">
-        <img src="https://img.shields.io/badge/-Portfólio%20Pessoal-007396?style=for-the-badge&logo=github&logoColor=white" />
-        <br/><strong>Portfólio Pessoal</strong>
-      </a>
+    <td align="center" width="50%">
+      <a href="https://v0-portfolio-website-zeta-plum.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfólio%20Pessoal-007396?style=for-the-badge&logo=next.js&logoColor=white" />
+      </a><br/>
+      <b>Minha apresentação digital, com interface responsiva e design system moderno.</b><br/>
       <br/>
-      <sub>Interface moderna e responsiva para apresentar meus projetos e habilidades.</sub><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="20"/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="25"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/HenriqueMC17/JogoDaVelha">
-        <img src="https://img.shields.io/badge/-Jogo%20da%20Velha-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
-        <br/><strong>Jogo da Velha</strong>
-      </a>
+    <td align="center" width="50%">
+      <a href="https://github.com/HenriqueMC17/JogoDaVelha" target="_blank">
+        <img src="https://img.shields.io/badge/Jogo%20da%20Velha-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a><br/>
+      <b>Versão web do clássico jogo da velha com placar e total interatividade.</b><br/>
       <br/>
-      <sub>Versão web do clássico jogo da velha com placar e responsividade.</sub><br/>
-      <img src="https://skillicons.dev/icons?i=js,html,css" height="20"/>
+      <img src="https://skillicons.dev/icons?i=js,html,css" height="25"/>
     </td>
-    <td align="center">
-      <a href="https://github.com/HenriqueMC17/OrganizadorDeArquivos">
-        <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
-        <br/><strong>Organizador de Arquivos</strong>
-      </a>
+    <td align="center" width="50%">
+      <a href="https://github.com/HenriqueMC17/OrganizadorDeArquivos" target="_blank">
+        <img src="https://img.shields.io/badge/Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
+      </a><br/>
+      <b>Automação inteligente em Python para gerenciamento de arquivos por extensão.</b><br/>
       <br/>
-      <sub>Script em Python para organizar arquivos automaticamente por extensão.</sub><br/>
-      <img src="https://skillicons.dev/icons?i=py" height="20"/>
+      <img src="https://skillicons.dev/icons?i=py" height="25"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📚 Atualmente Estudando
-
-- <img src="https://skillicons.dev/icons?i=java" height="20"/> Java com Orientação a Objetos  
-- <img src="https://skillicons.dev/icons?i=ts,angular" height="20"/> TypeScript + Angular  
-- <img src="https://skillicons.dev/icons?i=mysql" height="20"/> Modelagem e manipulação de bancos relacionais  
-- <img src="https://skillicons.dev/icons?i=cpp,py" height="20"/> Fundamentos de lógica com C++ e Python  
-- <img src="https://skillicons.dev/icons?i=googlecloud" height="20"/> Google Apps Script & VBA para automações  
-- <img src="https://skillicons.dev/icons?i=arduino" height="20"/> Projetos eletrônicos com Arduino
-
----
-
-## 💡 Curiosidades
-
-- 👨‍🏫 Ensino programação para iniciantes e colegas de classe  
-- 🎮 Curioso por desenvolvimento de games e engines como Unity  
-- 🤝 Aberto a colaborações e projetos open-source  
-- 💬 Adoro trocar ideia sobre tech, carreira e boas práticas
-
----
-
-## 📬 Vamos nos Conectar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/henrique-monteiro-cardoso-ba3716229/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5515988027261" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:henriquemon17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/.crazywen" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/HenriqueMC17" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎧 Escutando no Spotify
+## 📈 Dev Insights
 
 <div align="center">
-  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=7f7c1ce6ca504c76" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq&count=3&unique=true" alt="Spotify Recently Played" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=6&custom_title=Top%20Linguagens&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="Top Languages"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HenriqueMC17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&border_radius=10" height="190" alt="Streak Stats"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=10&theme=tokyonight&area=true&hide_border=true&custom_title=Atividades+Recentes" width="100%" alt="Gráfico de Atividades"/>
 </div>
 
 ---
 
-<p align="center"><i>"A tecnologia move o mundo, mas quem a move são os curiosos." 🚀</i></p>
+## 🎧 Hack & Relax
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Atualmente Escutando no Spotify</b><br><br>
+        <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=7f7c1ce6ca504c76" target="_blank">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq&count=3&unique=true" alt="Spotify Recently Played" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
