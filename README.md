@@ -102,8 +102,8 @@ Acredito que alinhar uma boa engenharia de software com empatia e entendimento d
 ## 📈 Dev Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=6&custom_title=Top%20Linguagens&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=6&custom_title=Top%20Linguagens&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="Top Languages"/>
 </div>
 <br>
 <div align="center">
