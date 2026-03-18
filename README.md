@@ -1,9 +1,5 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF7E0&height=250&section=header&text=Henrique%20Monteiro&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0FF7E0&center=true&vCenter=true&width=800&height=50&lines=Senior+Fullstack+Software+Engineer;Architecting+Scalable+&+Resilient+Systems;Turning+Complex+Problems+into+Elegant+Solutions"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Henrique%20Monteiro%20Cardoso&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Banner" />
 
 <div align="center">
   <br>
@@ -116,8 +112,4 @@ Minha especialidade reside em resolver problemas complexos por meio de arquitetu
 
 ## 🎧 Focus & Productivity
 
-<div align="center">
-  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=7f7c1ce6ca504c76" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq&count=3&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
+div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/> </div>
