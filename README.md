@@ -96,8 +96,8 @@ Minha especialidade reside em resolver problemas complexos por meio de arquitetu
 ## 📈 Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=15&custom_title=Top%20Linguagens&cache_seconds=1800&hide_border=true&border_radius=10" height="190" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=12&custom_title=Most%20Used%20Languages&hide_border=true&border_radius=10" height="195" alt="Top Languages"/>
 </div>
 <br>
 <div align="center">
