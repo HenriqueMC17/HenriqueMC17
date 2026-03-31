@@ -113,8 +113,12 @@ Minha especialidade reside em resolver problemas complexos por meio de arquitetu
 ## 🎧 Focus & Productivity
 
 <div align="center">
-  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=7f7c1ce6ca504c76" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k3hwqqt55ohjaiif3tnhps6wrq&count=3&unique=true" alt="Spotify Recently Played" />
+  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=f162ae17e24044ad" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  </a>
+  <br><br>
+  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=f162ae17e24044ad" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315p554yeqawff6qlol2mtdc7tfm&count=3&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
 
