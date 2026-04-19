@@ -107,6 +107,14 @@ Minha especialidade reside em resolver problemas complexos por meio de arquitetu
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=10&theme=tokyonight&area=true&hide_border=true&custom_title=Git+Activity+Telemetry" width="100%" alt="Gráfico de Atividades"/>
 </div>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
