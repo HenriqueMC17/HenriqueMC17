@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Henrique%20Monteiro%20Cardoso&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI-Native%20Developer&descAlignY=55&descAlign=50&descSize=18&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Henrique%20Monteiro%20Cardoso&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dev%20Full%20Stack7C%20AI-Native%20Developer&descAlignY=55&descAlign=50&descSize=18&animation=fadeIn" alt="Banner" />
 </div>
 
 <!-- Typing Animation -->
@@ -115,7 +115,7 @@ const HenriqueMC17 = {
 
 ## 🤖 AI-Native Development Stack
 
-> Em 2026, a competência mais diferencial de um engenheiro senior é a capacidade de **orquestrar agentes de IA** com governança, rastreabilidade e qualidade de produção.
+> Em 2026, a competência mais diferencial de um desenvolvedor fullstack é a capacidade de **orquestrar agentes de IA** com governança, rastreabilidade e qualidade de produção.
 
 <div align="center">
 
