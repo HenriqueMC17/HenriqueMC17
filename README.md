@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Henrique%20Monteiro%20Cardoso&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dev%20Full%20Stack7C%20AI-Native%20Developer&descAlignY=55&descAlign=50&descSize=18&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Henrique%20Monteiro%20Cardoso&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Dev%20Full%20Stack%20AI-Native%20Developer&descAlignY=55&descAlign=50&descSize=18&animation=fadeIn" alt="Banner" />
 </div>
 
 <!-- Typing Animation -->
