@@ -38,7 +38,7 @@
 
 ```typescript
 const HenriqueMC17 = {
-  role:       "Senior Full Stack Engineer & AI-Native Developer",
+  role:       "Full Stack Dev & AI-Native Developer",
   location:   "Brasil 🇧🇷",
   focus:      ["Scalable Systems", "Clean Architecture", "AI Orchestration"],
 
