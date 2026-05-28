@@ -182,47 +182,6 @@ const HenriqueMC17 = {
 
 ---
 
-## 📊 Engineering Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMC17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&include_all_commits=true&rank_icon=github" height="195" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMC17&layout=compact&theme=tokyonight&langs_count=10&custom_title=Languages&hide_border=true&border_radius=12" height="195" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueMC17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&border_radius=12" height="190" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueMC17&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution+Activity+Graph" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HenriqueMC17/HenriqueMC17/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-## 🎧 Currently Listening
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315p554yeqawff6qlol2mtdc7tfm?si=f162ae17e24044ad" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315p554yeqawff6qlol2mtdc7tfm&count=3&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
