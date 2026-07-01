@@ -1,0 +1,14 @@
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS Files
+.DS_Store
+Thumbs.db
+EHthumbs.db
+Desktop.ini
