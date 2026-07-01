@@ -115,7 +115,7 @@ const HenriqueMC17 = {
 
 ## 🤖 AI-Native Development Stack
 
-> Em 2026, a competência mais diferencial de um desenvolvedor fullstack é a capacidade de **orquestrar agentes de IA** com governança, rastreabilidade e qualidade de produção.
+> Em 2026, a competência mais diferencial de um desenvolvedor fullstack é a capacidade de **orquestrar agentes de IA** com governança, rastreabilidade e qualidade de produção. Toda a minha orquestração agêntica e engenharia de contexto é alinhada com as diretrizes do [Repositório de Documentação Técnica e Governança de IA](file:///c:/Dev/Docs/README.md).
 
 <div align="center">
 
